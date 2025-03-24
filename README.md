@@ -4,7 +4,7 @@
 <br>
 This is a Library Management System built using Django and Django REST Framework (DRF).It provides RESTful API endpoints for managing books and user authentication.
 <br>
-<h5>Setup instructions</h5>
+<h4>Setup instructions</h4>
 <br>
 1.	Clone the Repository<br>
 •	git clone https://github.com/username/library_Management_System.git<br>
@@ -34,7 +34,7 @@ This is a Library Management System built using Django and Django REST Framework
 7.	Test API Endpoints<br>
 •	http://127.0.0.1:8000/api/admin/signup/
 <br>
-<h5>Project Structure Explanation</h5>
+<h4>Project Structure Explanation</h4>
 <br>
 o	Library_Management_System/     # Root Project Directory<br>
 •	books/                     	   # Main Django App<br>
